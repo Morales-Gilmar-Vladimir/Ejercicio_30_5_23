@@ -72,4 +72,3 @@ Ayudan a inicializar los valores de una clase
 
 Es un **repositorio,** se utiliza generalmente para organizar un solo proyecto. Los repositorios pueden contener carpetas y archivos ,imágenes ,vídeos , hojas de cálculo y bases de datos.
 
-POO
