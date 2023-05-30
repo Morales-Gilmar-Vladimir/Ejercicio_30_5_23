@@ -1,0 +1,75 @@
+- Clase
+
+Si quisiera definir una clase la dividiría en algún tipo de objeto que pertenece a una clase en especifico, en la cual se podrían encontrar sus características y usos o mejor dicho sus atributos y métodos por donde esta se utiliza o se tiene una característica especifica del objeto en esa clase.
+
+- Objeto
+
+Dentro de este ámbito un objeto se define como al elemento que se tiene para determinar cada uno de sus atributos pertenecientes y a su vez como se lo utiliza mediante los métodos.
+
+- Método
+
+El método se define como la metodología que hace referencia al conjunto de procedimientos relacionales para llegar a tener estrategias, procedimientos y técnicas que encaminan a la acción hacia un objetivo específico.
+
+- Atributos
+
+Los atributos son las características que se le da a un objeto para conocer como se divide y que nomas puede hacer o en que se divideque es una clase
+
+Si quisiera definir una clase la dividiría en algún tipo de objeto que pertenece a una clase en especifico, en la cual se podrían encontrar sus características y usos o mejor dicho sus atributos y métodos por donde esta se utiliza o se tiene una característica especifica del objeto en esa clase
+
+- Setters
+
+Se fija o se establece un valor o nombre al atributo
+
+- Getters
+
+Se utiliza para obtener u acceder a un valor de un atributo
+
+- Puntero
+
+Variable que almacena la dirección de memoria de un objeto y sirve para pasar los datos de direcciones de una memoria a otra.
+
+- Constructor
+
+Ayudan a inicializar los valores de una clase
+
+- Git-Hub
+
+Es un **repositorio,** se utiliza generalmente para organizar un solo proyecto. Los repositorios pueden contener carpetas y archivos ,imágenes ,vídeos , hojas de cálculo y bases de datos.- Clase
+
+Si quisiera definir una clase la dividiría en algún tipo de objeto que pertenece a una clase en especifico, en la cual se podrían encontrar sus características y usos o mejor dicho sus atributos y métodos por donde esta se utiliza o se tiene una característica especifica del objeto en esa clase.
+
+- Objeto
+
+Dentro de este ámbito un objeto se define como al elemento que se tiene para determinar cada uno de sus atributos pertenecientes y a su vez como se lo utiliza mediante los métodos.
+
+- Método
+
+El método se define como la metodología que hace referencia al conjunto de procedimientos relacionales para llegar a tener estrategias, procedimientos y técnicas que encaminan a la acción hacia un objetivo específico.
+
+- Atributos
+
+Los atributos son las características que se le da a un objeto para conocer como se divide y que nomas puede hacer o en que se divideque es una clase
+
+Si quisiera definir una clase la dividiría en algún tipo de objeto que pertenece a una clase en especifico, en la cual se podrían encontrar sus características y usos o mejor dicho sus atributos y métodos por donde esta se utiliza o se tiene una característica especifica del objeto en esa clase
+
+- Setters
+
+Se fija o se establece un valor o nombre al atributo
+
+- Getters
+
+Se utiliza para obtener u acceder a un valor de un atributo
+
+- Puntero
+
+Variable que almacena la dirección de memoria de un objeto y sirve para pasar los datos de direcciones de una memoria a otra.
+
+- Constructor
+
+Ayudan a inicializar los valores de una clase
+
+- Git-Hub
+
+Es un **repositorio,** se utiliza generalmente para organizar un solo proyecto. Los repositorios pueden contener carpetas y archivos ,imágenes ,vídeos , hojas de cálculo y bases de datos.
+
+POO
